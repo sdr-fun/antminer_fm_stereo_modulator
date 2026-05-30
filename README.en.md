@@ -1,4 +1,4 @@
-# Antminer S9 FM Stereo Modulator
+# Antminer S9 - FPGA FM Stereo Modulator
 
 **Stereo FM modulator based on Antminer S9 / Astra S9 FPGA board without external DAC.** Direct Digital Synthesis (DDS) for experimental FM broadcasting.
 
