@@ -1,4 +1,4 @@
-# Antminer S9 FM Stereo Modulator
+# Antminer S9 - FPGA FM Stereo Modulator
 
 **Стерео FM-модулятор на базе ПЛИС платы Antminer S9 / Astra S9 без внешнего ЦАП.** Прямой цифровой синтез (DDS) для экспериментального FM-вещания.
 
